@@ -9,7 +9,7 @@
 
 --- 22. Dropping Databases: to delete databases on MySQL (or any MDB).
 
-DROP DATABASES <name>;
+DROP DATABASE <name>;
 
 Examples:
 
